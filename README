@@ -1,4 +1,4 @@
-THis modules can be used as a temporary one for translating the output from the openAI chatGPT output to translate to any languages.
+This modules can be used as a temporary one for translating the output from the openAI chatGPT output to translate to any languages.
 
 Requirements: a) Googletrans package b) opnAI package in python c) FLASK.
 
