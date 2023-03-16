@@ -19,20 +19,20 @@ step1:
 if your system do not have the following packages:
 
      to install Googletrans use 
- ```
-     pip3 install googletrans 
+ 
+ ``` pip3 install googletrans 
   ```
      
      from your Linux/macOS terminal.
      to install openAI: 
-     ````
-     pip3 install openAI
+    
+    ``` pip3 install openAI
      ``` 
      from the terminal.
      
      to install FLASK use 
-     ```
-     pip3 install flask
+   
+   ```pip3 install flask
      ```
      from the terminal.
      
