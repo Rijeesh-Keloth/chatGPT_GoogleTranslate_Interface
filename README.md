@@ -16,7 +16,7 @@ STEPS to follow:
 
 step1: 
 
-if your system do not have the following packages:
+if your system do not have the following packages,
 
      to install Googletrans use pip3 install googletrans from your Linux/macOS terminal.
 
