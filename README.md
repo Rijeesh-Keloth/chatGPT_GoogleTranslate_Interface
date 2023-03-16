@@ -66,6 +66,6 @@ if your system do not have the following packages:
   ```
   translated_text = translator.translate(output_text_file, dest='or').text
   ```
-  to change langauge change dest=`or` to any other language listed in googletrans. For example `ml` stands for Malayalam. `or` stands for Oria and `fr` for french etc.
+  to change langauge,  change dest=`or` to any other language listed in googletrans. For example `ml` stands for Malayalam. `or` stands for Oria and `fr` for french etc.
   
   
