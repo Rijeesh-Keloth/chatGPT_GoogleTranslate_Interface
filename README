@@ -1,4 +1,14 @@
-This modules can be used as a temporary one for translating the output from the openAI chatGPT output to translate to any languages.
+As a language model, ChatGPT is trained on a large corpus of text in English language. Therefore, its performance may be limited when it comes to understanding and generating text in other languages. Some of the limitations of ChatGPT with other languages include:
+
+Limited Vocabulary: ChatGPT may have a limited vocabulary when it comes to other languages, which may affect its ability to understand and generate text accurately.
+
+Grammatical Differences: Different languages have different grammatical structures, and ChatGPT may not be able to capture these differences accurately.
+
+Cultural Context: ChatGPT may not have enough knowledge about the cultural context of other languages, which may lead to incorrect interpretations or translations.
+
+Idiomatic Expressions: Different languages have unique idiomatic expressions that may not be easily translatable, and ChatGPT may struggle to accurately translate such expressions.
+
+This module can be used as a temporary fix for translating the output from the openAI chatGPT output to translate to any languages.
 
 Requirements: a) Googletrans package b) opnAI package in python c) FLASK.
 
