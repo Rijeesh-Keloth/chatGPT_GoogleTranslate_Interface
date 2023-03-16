@@ -39,11 +39,18 @@ if your system do not have the following packages:
   
   type the following :
   
-  ```export FLASK_APP=translate_gpt
+  ```
+  export FLASK_APP=translate_gpt
   export FLASK_ENV=development
-  flask run ```
+  flask run 
   
-  after that you can open ``` http://localhost:5000 ``` in your browser. You can use any of your favourite browser like google chrome. 
+  ```
+  
+  after that you can open 
+  
+  http://localhost:5000 
+  
+  in your browser. You can use any of your favourite browser like google chrome. 
   
   You will see a promt in the home page and search button where you can type your question to chatGPT. 
   
@@ -55,7 +62,9 @@ if your system do not have the following packages:
   edit the line number 44 :
   
   Line number 44 is 
-  ```translated_text = translator.translate(output_text_file, dest='or').text```
+  ```
+  translated_text = translator.translate(output_text_file, dest='or').text
+  ```
   to change langauge change dest=`or` to any other language listed in googletrans. For example `ml` stands for Malayalam. `or` stands for Oria and `fr` for french etc.
   
   
