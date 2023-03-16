@@ -34,7 +34,7 @@ if your system do not have the following packages,
   
   Setting up the environmental variables:
   
-  type the following one by one:
+  type the following one by one in the terminal:
   
   ```
   export FLASK_APP=translate_gpt
