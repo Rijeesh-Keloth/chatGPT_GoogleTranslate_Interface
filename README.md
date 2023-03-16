@@ -19,9 +19,9 @@ step1:
 if your system do not have the following packages:
 
      to install Googletrans use 
-    '''
+ ```
      pip3 install googletrans 
-    ''' 
+  ```
      
      from your Linux/macOS terminal.
      to install openAI package use ```pip3 install openAI``` from the terminal.
