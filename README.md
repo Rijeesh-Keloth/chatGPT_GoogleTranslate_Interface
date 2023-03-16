@@ -24,9 +24,17 @@ if your system do not have the following packages:
   ```
      
      from your Linux/macOS terminal.
-     to install openAI package use 
-     `pip3 install openAI` from the terminal.
-     to install FLASK use `pip3 install flask` from the terminal.
+     to install openAI: 
+     ````
+     pip3 install openAI
+     ``` 
+     from the terminal.
+     
+     to install FLASK use 
+     ```
+     pip3 install flask
+     ```
+     from the terminal.
      
   step2: 
   
